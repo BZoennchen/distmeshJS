@@ -1,2 +1,3 @@
-# distmeshJS
-JavaScript implementation of DistMesh to make use of it using P5js
+# DistmeshJS
+
+JavaScript implementation of [DistMesh](http://persson.berkeley.edu/distmesh/) to make use of it using P5js
